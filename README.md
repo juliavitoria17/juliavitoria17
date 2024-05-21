@@ -1,1 +1,5 @@
-oi meu nome eh Julia, estou na bunda
+Meu nome é Julia
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
